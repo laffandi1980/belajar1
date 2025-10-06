@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "sib3a1",
     "short_name": "sib3a1",
+=======
+    "name": "belajar1",
+    "short_name": "belajar1",
+>>>>>>> 2e94a27c65261d21ba5d8e3e45272acb9c85f8bb
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

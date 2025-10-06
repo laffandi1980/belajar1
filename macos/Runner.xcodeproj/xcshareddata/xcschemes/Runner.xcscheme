@@ -15,7 +15,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
                BuildableName = "sib3a1.app"
+=======
+               BuildableName = "belajar1.app"
+>>>>>>> 2e94a27c65261d21ba5d8e3e45272acb9c85f8bb
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -31,7 +35,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "sib3a1.app"
+=======
+            BuildableName = "belajar1.app"
+>>>>>>> 2e94a27c65261d21ba5d8e3e45272acb9c85f8bb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -66,7 +74,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "sib3a1.app"
+=======
+            BuildableName = "belajar1.app"
+>>>>>>> 2e94a27c65261d21ba5d8e3e45272acb9c85f8bb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -83,7 +95,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
             BuildableName = "sib3a1.app"
+=======
+            BuildableName = "belajar1.app"
+>>>>>>> 2e94a27c65261d21ba5d8e3e45272acb9c85f8bb
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
